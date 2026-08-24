@@ -170,7 +170,7 @@ export function Header() {
               className="rounded-xl bg-gradient-to-r from-primary to-primary/80 text-primary-foreground font-bold shadow-lg shadow-primary/25 hover:shadow-xl hover:shadow-primary/30"
             >
               <a
-                href="https://wa.me/5584999999999?text=Olá! Quero saber como ser Fusion."
+                href="https://fusionapp-chi.vercel.app/#buscar"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -195,7 +195,7 @@ export function Header() {
             </Button>
           </SheetTrigger>
           <SheetContent
-            side="right"
+             side="right"
             className="w-full max-w-sm bg-background/95 backdrop-blur-xl"
           >
             <SheetHeader>
@@ -247,7 +247,7 @@ export function Header() {
                   className="w-full rounded-xl bg-gradient-to-r from-primary to-primary/80 text-primary-foreground font-bold h-12 shadow-lg shadow-primary/25"
                 >
                   <a
-                    href="https://wa.me/5511919119054?text=Olá! Quero saber como ser Fusion."
+                    href="https://fusionapp-chi.vercel.app/#buscar"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
